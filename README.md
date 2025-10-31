@@ -53,3 +53,47 @@ Join our community of developers creating universal apps.
 # coffee-shop-web-app
 Kapehan is a premium coffee shop app offering an elegant, animated experience for discovering and ordering artisan coffee creations with luxury design and smooth interactions.
 >>>>>>> 5d829d63ea03b21a0c938c7882daf5f221a19d1e
+
+# ☕ Kapehan - Premium Coffee Shop App
+
+A luxury React Native/Expo coffee shop application featuring elegant design, smooth animations, and 28+ artisan coffee creations.
+
+## 📸 App Screenshots
+
+| Home Screen | Menu Screen |
+|-------------|-------------|
+| ![Home Screen](./screenshots/home.png) | ![Menu Screen](./screenshots/menu.png) |
+
+| Favorites Screen | Profile Screen |
+|------------------|----------------|
+| ![Favorites Screen](./screenshots/favorites.png) | ![Profile Screen](./screenshots/profile.png) |
+
+## ✨ Features
+
+- **28+ Premium Coffee Drinks** across 4 categories (Featured, Classic, Iced, Seasonal)
+- **Beautiful 2-Column Menu** with professional photography
+- **Smooth Animations** - Add to cart effects, shimmer loading, parallax scrolling
+- **Luxury Design** - Dark theme with gold accents, premium typography
+- **Interactive Cart** - Real-time updates with floating notifications
+- **Responsive Design** - Optimized for all mobile devices
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React Native, Expo, TypeScript
+- **Navigation**: Expo Router
+- **Styling**: React Native StyleSheet
+- **Icons**: Expo Vector Icons
+- **Animations**: React Native Animated API
+- **Background Effects**: Expo Blur, Linear Gradient
+
+## 🚀 Getting Started
+
+```bash
+# Clone repository
+git clone https://github.com/bojji3/coffee-shop-web-app.git
+
+# Install dependencies
+npm install
+
+# Start development
+npx expo start
